@@ -1,0 +1,30 @@
+{
+    "name": "Danusan PERBAKAL",
+    "short_name": "Danusan",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#ccc",
+    "theme_color": "#5FAAE5",
+    "icons": [{
+            "src": "./images/risol.jpg",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/estimun.jpg",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/piscok.jpg",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./images/gehu.jpg",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
